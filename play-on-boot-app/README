@@ -1,0 +1,3 @@
+### Description de l'application ###
+L'application play-on-boot lit le contenu d'un fichier mp3 passé en paramère est applique un effet  de fadein au début du fichier et un effet de fade-out à la fin du fichier (fade linéair sur 5 seconds)
+
