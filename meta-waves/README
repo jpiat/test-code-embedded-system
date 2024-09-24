@@ -1,0 +1,2 @@
+### Structure la layer meta-waves ###
+La layer meta-waves doit fournir une nouvelle distribution qui ajoute l'application play-on-boot et la lance via systemd à chaque démarrage du système d'exploitation
