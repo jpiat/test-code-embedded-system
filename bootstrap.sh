@@ -10,7 +10,7 @@ function exit_error() {
 }
 
 # Clone all needed repository
-YOCTO_BRANCH=scarthgap
+YOCTO_BRANCH=kirkstone
 git submodule init
 git submodule update
 
